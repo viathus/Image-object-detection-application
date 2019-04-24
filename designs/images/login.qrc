@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="images">
+    <file>house.png</file>
+    <file>left-arrow.png</file>
+    <file>wrongcross.png</file>
+    <file>greentick.png</file>
+    <file>exit.png</file>
+    <file>folder-red-video-icon.png</file>
+    <file>Dslr-Camera-icon.png</file>
+    <file>webcamdetect.png</file>
+    <file>settings.png</file>
+    <file>notification.png</file>
+    <file>basic.png</file>
+    <file>secure.jpg</file>
+    <file>login.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>detection.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>upload.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>boy.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>padlock.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+requests
+python-firebase
+PyQt5
+tensorflow
+validate_email
+Pillow
+opencv-python
+google-cloud-storage
+matplotlib
